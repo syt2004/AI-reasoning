@@ -25,6 +25,10 @@
 ### [[176]](https://ieeexplore.ieee.org/abstract/document/10160591/)LLM generates policy code and expands the scope of inference tasks, but the disadvantage is that the API and control primitives are limited, and there is no feasible mechanism to evaluate a given instruction
 ## 5.Robot data reasoning
 ### [[177]](https://arxiv.org/abs/2211.11736) [[178]](https://arxiv.org/abs/2301.12507)VLM embeddings embody agent, integration of discrete text markup.PaLM-E,inputs from different schemas can be converted into LLM-compatible formats, enabling embodied agents to interact across schemas
+# 🚀 MCoT reasoning
+## A Chain of Thought (CoT) is a method of having a model generate a series of intermediate reasoning steps to gradually arrive at a final answer. On this basis, multi-channel thinking chain reasoning considers a variety of information input channels (such as text, images, speech, etc.), and uses the information of different channels to carry out a more comprehensive reasoning process.In page5 of this Survey, there is already a clear classification framework and literature citations[[Paper]](https://arxiv.org/abs/2503.12605)
+# 🤖Application of Embodied-AI
+## EmbodiedGPT [39]; E-CoT [[41]](https://arxiv.org/pdf/2407.08693); ManipLLM [[139]](http://openaccess.thecvf.com/content/CVPR2024/html/Li_ManipLLM_Embodied_Multimodal_Large_Language_Model_for_Object-Centric_Robotic_Manipulation_CVPR_2024_paper.html); CoTDiffusion [[136]](http://openaccess.thecvf.com/content/CVPR2024/html/Ni_Generate_Subgoal_Images_before_Act_Unlocking_the_Chain-of-Thought_Reasoning_in_CVPR_2024_paper.html);Emma-X [[140]](https://arxiv.org/abs/2412.11974); SpatialCoT [[141]](https://arxiv.org/abs/2501.10074); MCoCoNav [[142]](https://arxiv.org/abs/2412.18292); MCoT-Memory [[133]](https://openreview.net/forum?id=Z1Va3Ue4GF)
 
 
   
