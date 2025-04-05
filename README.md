@@ -24,7 +24,7 @@
 ## 4.Policy generation reasoning
 ### [[176]](https://ieeexplore.ieee.org/abstract/document/10160591/)LLM generates policy code and expands the scope of inference tasks, but the disadvantage is that the API and control primitives are limited, and there is no feasible mechanism to evaluate a given instruction
 ## 5.Robot data reasoning
-### [[177]](https://arxiv.org/abs/2211.11736) [[178]](https://arxiv.org/abs/2211.11736)VLM embeddings embody agent, integration of discrete text markup.PaLM-E,inputs from different schemas can be converted into LLM-compatible formats, enabling embodied agents to interact across schemas
+### [[177]](https://arxiv.org/abs/2211.11736) [[178]](https://arxiv.org/abs/2301.12507)VLM embeddings embody agent, integration of discrete text markup.PaLM-E,inputs from different schemas can be converted into LLM-compatible formats, enabling embodied agents to interact across schemas
 
 
   
