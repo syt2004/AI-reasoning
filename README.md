@@ -38,4 +38,44 @@
 ## 🌎Contribution：
 ### Major contribution: There is a common trend in these articles that the reasoning mode of large models is CoT paradigm and the reasoning is output in text and other ways, and the interpretability is enhanced. From the previous end to end (input a thing output no intermediate process, the middle is a black box, do not know the reasoning process) but now there is text output in the middle, and then the text as a guide to guide the next action. (Stepwise language), and put forward the construction of the mechanism of multi-modal joint reasoning. It also puts forward scene memory, puts high quality CoT into memory bank, retrieves past similar experience when doing new task, and makes transfer reuse of inference. And when dealing with long-term tasks, reasoning can also assist in the formation of subitems and decompose multiple intermediate states. The CoT Diffusion model generates intermediate image processing tasks, and finally combines swarm artificial intelligence to think and reason independently and learn the actions of others, getting closer and closer to the way humans think
 
+# 🧠Memory enhancedment reasoning
+## I investigated the four conference papers of ICML2024, CVPR2025, ICLR2025 and NIPS2024.Memory-based reasoning is roughly divided into five minor research directions: computational cost optimization, storage cost optimization, reduction of forgetfulness, scalability, and sustainable update.
+###  🦖computational cost optimization:
+#### https://arxiv.org/abs/2501.13468
+#### https://arxiv.org/abs/2405.05615
+#### https://github.com/WEIYanbin1999/GITA
+#### https://arxiv.org/abs/2408.00754
+#### https://arxiv.org/abs/2405.19209
+### 👾storage cost optimization:
+#### https://arxiv.org/abs/2411.12593
+#### https://arxiv.org/abs/2503.16413
+#### https://arxiv.org/abs/2405.04517
+#### MemVLT: Vision-Language Tracking with Adaptive Memory-based Prompts
+### 🦾reduction of forgetfulness:
+#### (https://arxiv.org/abs/2409.02313) (https://arxiv.org/abs/2501.08549) (https://arxiv.org/abs/2411.17576) (https://arxiv.org/abs/2402.11435)
+#### Hidden Traveling Waves bind Working Memory Variables in Recurrent Neural Networks. (https://github.com/sthalles/massl) (https://github.com/luciferkonn/dt_mem)
+#### (https://arxiv.org/abs/2405.14768) (https://github.com/corxyz/icl-cmr) (https://arxiv.org/abs/2405.14831) 
+#### Exploiting the Replay Memory Before Exploring the Environment: Enhancing Reinforcement Learning Through Empirical MDP Iteration.
+#### Do LLMs dream of elephants (when told not to)? Latent concept association and associative memory in transformers
+#### (https://arxiv.org/abs/2504.07962) (https://arxiv.org/abs/2503.18359)
+### 🐳sustainable update：
+#### https://arxiv.org/abs/2503.08306
+#### Prioritized Generative Replay
+#### https://github.com/daviddebot/CMR
+#### https://github.com/liuyuchen-cz/f-oal
+#### Geometry of naturalistic object representations in recurrent neural network models of working memory.
+#### Decompose, Analyze and Rethink: Solving Intricate Problems with Human-like Reasoning Cycle.
+#### https://arxiv.org/abs/2403.11901
+#### https://arxiv.org/abs/2409.02313
+#### https://arxiv.org/abs/2402.04624
+### 🐖Memory Consolidation Enables Long-Context Video Understanding.
+#### https://arxiv.org/abs/2503.23297
+#### https://github.com/magics-lab/uhop
+#### https://arxiv.org/abs/2410.01380
+#### https://arxiv.org/abs/2504.05303
+#### https://arxiv.org/abs/2402.09727
+#### https://github.com/bhoov/distributed_DAM
+#### https://arxiv.org/abs/2502.14895
+#### https://arxiv.org/abs/2411.14794
+
   
